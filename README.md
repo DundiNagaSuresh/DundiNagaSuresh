@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dundi Naga Suresh Dasari</h1>
-<h3 align="center">A passionate AWS Cloud and DevOps Engineer. I am currently working as a CloudOps Engineer in a Product-based Startup Company based out of Bengaluru.</h3>
+<h3 align="center">A passionate AWS Cloud and DevOps Engineer. I am currently working as a CloudOps Engineer in a Product-based Startup Company.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [Building Solutions on AWS](https://github.com/aws-solutions)
